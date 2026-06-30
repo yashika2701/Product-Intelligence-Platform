@@ -1,8 +1,8 @@
 # AI-Powered Business & Product Intelligence Platform
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://yashika2701-product-intelligence-platform.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://appuct-intelligence-platform-tkk5qlvy4mtg8l6zszdn75.streamlit.app/)
 
-**🔗 Live Deployed Link**: [Click here to view the live dashboard](https://yashika2701-product-intelligence-platform.streamlit.app/)
+**🔗 Live Deployed Link**: [Click here to view the live dashboard](https://appuct-intelligence-platform-tkk5qlvy4mtg8l6zszdn75.streamlit.app/)
 
 An end-to-end data analytics and predictive platform designed for business analysts, product managers, and growth consultants. The application demonstrates a complete data value chain: from synthetic relational data generation with pre-baked UX anomalies, through SQL aggregation views and machine learning modeling, to a live presentation dashboard integrated with Generative AI consulting roadmaps.
 
